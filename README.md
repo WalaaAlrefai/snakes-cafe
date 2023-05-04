@@ -16,6 +16,6 @@ I didnt handle the upper and lower case for user-input ***its not required***  i
 
 but I will make search .
 
-[repo link](https://github.com/WalaaAlrefai/snakes-cafe/blob/main/snakes_cafe.py)
+[pull link](https://github.com/WalaaAlrefai/snakes-cafe/pull/1)
 
 ##### I got help from maisaa albataineh
