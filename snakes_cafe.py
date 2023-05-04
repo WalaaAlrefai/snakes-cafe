@@ -71,7 +71,7 @@ def main():
                   obj[user_input] += 1
                  else :
                     obj[user_input]=1
-                 print(f"** {obj[user_input]} orders wings of {user_input.lower()} has been added to your meal")
+                 print(f"** {obj[user_input]} orders of {user_input.lower()} has been added to your meal")
                else:
                  print("sorry we didint have this item")
             user_input = user_insertion()
